@@ -26,3 +26,4 @@ Notação matemática para deep learning.
 - [Implementing a Neural Network from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)
 - [The code of logistic regression](http://himarsh.org/the-code-of-logistic-regression/)
+- [Funções de ativação hiperbólicas em redes neurais](https://www.cos.ufrj.br/uploadfile/publicacao/2759.pdf)
