@@ -7,6 +7,7 @@ A jupyter notebooks por curso e semana.
     - vectorization
     - numpy_vectors
   - Shallow neural networks (Week 3)
+    - activation_functions
   - Deep Neural Networks (Week 4)
 
 # Notação
