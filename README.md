@@ -28,3 +28,6 @@ Notação matemática para deep learning.
 - [Why normalize images by subtracting dataset's image mean, instead of the current image mean in deep learning?](https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current)
 - [The code of logistic regression](http://himarsh.org/the-code-of-logistic-regression/)
 - [Funções de ativação hiperbólicas em redes neurais](https://www.cos.ufrj.br/uploadfile/publicacao/2759.pdf)
+- [Demystifying Deep Convolutional Neural Networks](http://scs.ryerson.ca/~aharley/neural-networks/)
+- [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-case-study/)
+- [Autoreload of modules in IPython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
