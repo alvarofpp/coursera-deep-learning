@@ -12,7 +12,8 @@ A jupyter notebooks por curso e semana.
 
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - Practical aspects of Deep Learning (week 1)
-    - adjusting-model
+    - adjusting_model
+    - optimization_model
 
 # Notação
 Notação matemática para deep learning.
