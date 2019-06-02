@@ -2,13 +2,17 @@
 A jupyter notebooks por curso e semana.
 
 - Neural Networks and Deep Learning
-  - Neural Networks Basics (Week 2)
+  - Neural Networks Basics (week 2)
     - logistic_regression
     - vectorization
     - numpy_vectors
-  - Shallow neural networks (Week 3)
+  - Shallow neural networks (week 3)
     - activation_functions
-  - Deep Neural Networks (Week 4)
+  - Deep Neural Networks (week 4)
+
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - Practical aspects of Deep Learning (week 1)
+    - adjusting-model
 
 # Notação
 Notação matemática para deep learning.
