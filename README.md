@@ -36,3 +36,4 @@ Notação matemática para deep learning.
 - [Demystifying Deep Convolutional Neural Networks](http://scs.ryerson.ca/~aharley/neural-networks/)
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-case-study/)
 - [Autoreload of modules in IPython](https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython)
+- [Análise da eficiência do algoritmo Adjustable Step Decay](https://www.cin.ufpe.br/~tg/2018-1/eccf-tg.pdf)
